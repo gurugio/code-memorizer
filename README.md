@@ -2,6 +2,7 @@
 
 Code Memorizer: help you to memorize code
 
+```
 This program replaces some code lines to the blank comment lines.
 If you have such a good example source code that you really want to memorize it,
 you can remove some lines of the example source with this program and fill out the blank lines.
@@ -19,6 +20,7 @@ optional arguments:
                         string with which comment starts
   -o OUTPUT, --output OUTPUT
                         do not replace source file and write result to another file
+```
 
 ## Example
 
